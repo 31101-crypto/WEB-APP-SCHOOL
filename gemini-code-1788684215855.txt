@@ -1,0 +1,3 @@
+NEXT_PUBLIC_SUPABASE_URL=ใส่_URL_จาก_Supabase
+NEXT_PUBLIC_SUPABASE_ANON_KEY=ใส่_Key_จาก_Supabase
+TMDB_API_KEY=ใส่_API_Key_จาก_TMDB
